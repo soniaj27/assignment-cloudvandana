@@ -19,6 +19,7 @@ Example - This is a sunny day > shiT si a ynnus yad.
 # HTML
 1. Create a basic calculator using HTML, CSS, and Javascript with the functionality of add,
 subtract, multiply and divide.
+
  Deployed link https://soniaj27.github.io/calculatorrr/
 
 
@@ -27,7 +28,8 @@ subtract, multiply and divide.
 fields are necessary to submit the form. Create two buttons Submit and Reset. Reset will
 reset the form while on clicking on submit, first it will check all the fields and necessary
 validations.
+
 Deployed link https://soniaj27.github.io/surveryfrom/
 
 
-# 
+

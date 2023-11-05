@@ -10,13 +10,13 @@ I have incorporated three distinct tasks encompassing Java, JavaScript, and HTML
 3. Check if the input is panagram or not. (Panagram is a sentence that contains all the
 alphabets from(a-z)
  
-#javascript
+# javascript
 1. take  a senctance as an input and reverse every word in that sentence.
 Example - This is a sunny day > shiT si a ynnus yad.
 
 3. Perforn sorting of an array in descending order.
 
-#HTML
+# HTML
 1. Create a basic calculator using HTML, CSS, and Javascript with the functionality of add,
 subtract, multiply and divide.
 
